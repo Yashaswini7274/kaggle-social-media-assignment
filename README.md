@@ -42,6 +42,6 @@ This project analyzes the social media usage habits of students using a dataset 
 
 ---
 
-**Author**: *[Your Name]*  
+**Author**: Spoorthi s gowda  
 **Tool Used**: Google Colab  
 **Date**: June 2025
